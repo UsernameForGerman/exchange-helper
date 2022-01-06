@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 django = ">3.0"
 pipfile = "*"
-celery = "==4.4.2"
+celery = "==5.2.2"
 requests = "==2.23"
 beautifulsoup4 = "==4.9.0"
 lxml = "==4.5"
